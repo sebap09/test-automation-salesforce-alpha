@@ -1,0 +1,6 @@
+data.json
+data.zip
+node_modules
+.env
+.env.zip
+test_output/*

@@ -1,0 +1,12 @@
+{
+    "defaultOrg":{
+        "defaultMarket":{
+            "success":{
+                "accountCreated":"Account \"PLACEHOLDER\" was created.",
+                "productCreated":"Product \"PLACEHOLDER\" was created."
+            }
+        },
+        "otherMarket":{}
+    },
+    "otherOrg":{}
+}

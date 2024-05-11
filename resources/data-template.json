@@ -1,0 +1,37 @@
+{
+    "defaultOrg":{
+        "orgId":"",
+        "authEndpoint":"/services/oauth2/token",
+        "accessToken":"",
+        "companyName":"https://company-dev-ed.develop.my.salesforce.com",
+        "defaultMarket":{
+            "login":{
+                "url":"https://company-dev-ed.develop.my.salesforce.com"
+            },
+            "adminUser":{
+                "username":"",
+                "password":""
+            },
+            "account":{
+                "url":"https://company-dev-ed.develop.lightning.force.com/lightning/o/Account/list?filterName=Recent",
+                "apiUrl":"/services/data/v60.0/sobjects/Account/",
+                "defaultData":{
+                    "Name":"Dummy Account Name",
+                    "BillingCity":"Camarillo",
+                    "BillingCountry":"Cook Islands",
+                    "BillingPostalCode":"16338",
+                    "BillingState":"Michigan",
+                    "BillingStreet":"Market Square",
+                    "Phone":"123456789",
+                    "Type":"Technology Partner",
+                    "Industry":"Banking"
+                }
+            },
+            "product":{
+                "url":"https://company-dev-ed.develop.lightning.force.com/lightning/o/Product2/list?filterName=Recent"
+            }
+        },
+        "otherMarket":{}
+    },
+    "otherOrg":{}
+}
